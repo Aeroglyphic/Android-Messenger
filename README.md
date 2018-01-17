@@ -10,4 +10,8 @@ After checking [here](https://github.com/obsidianproject/MessengerAndroid/wiki/E
 Thank you for filing your bug report in the [Issues](https://github.com/obsidianproject/MessengerAndroid/issues) tab.
 - For networking related bugs (WiFi/Mobile Data), please test a little more and also kill and restart the app. Try switching Wifi/Mobile data on and off. It's not helpful otherwise, normally both works.
 
+## Source Code
+The source code will not be available in 2018, but will eventually be published when we think its benefitial for ODN.
+
+
 
