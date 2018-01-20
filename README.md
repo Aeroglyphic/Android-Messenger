@@ -3,6 +3,9 @@
 ## Releases
 Get the latest apk here: https://github.com/obsidianproject/MessengerAndroid/releases
 
+### No Android? Run it on an emulator!
+https://github.com/obsidianproject/MessengerAndroid/wiki/OSM-Android-Emulator-Setup-for-Win-7-8-10
+
 ## Enhancement Proposals
 After checking [here](https://github.com/obsidianproject/MessengerAndroid/wiki/Enhancement-Proposals-for-Obsidian-Secure-Anonymous-Messenger) if the proposal has already been made, please open an [issue](https://github.com/obsidianproject/MessengerAndroid/issues) if necessary. 
 
