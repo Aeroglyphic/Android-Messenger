@@ -18,7 +18,7 @@ The source code is available here:
 https://github.com/obsidianproject/ObsidianMessenger
 
 ## Exclusion of Warranty and Liability
-Warranty and Liability is excluded by the maximum possible extend allowed by the law. Place of cour is Munich, Germany.
+Warranty and Liability is excluded by the maximum possible extend allowed by the law. Place of court is Munich, Germany.
 
 
 
